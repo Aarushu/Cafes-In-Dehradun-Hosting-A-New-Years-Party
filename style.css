@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color:rgb(11, 198, 223);
+    font-family:'Pushster', cursive;
+}
+#Tibetan-Restaurants{
+    background-color: aquamarine;
+}
+.h1{
+    font-size: 40px;
+    font-weight: 300;
+}
